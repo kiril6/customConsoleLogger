@@ -1,5 +1,7 @@
 # Custom Console Logger in JavaScript
 
+Live access https://kiril6.github.io/customConsoleLogger/
+
 This project provides a custom console logger for JavaScript that outputs log messages to a custom console container in the DOM, as well as the browser's console. It's a great tool for debugging and learning about JavaScript's console methods.
 
 ## Features
